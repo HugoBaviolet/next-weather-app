@@ -4,7 +4,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 This Project uses Next.js(React), TypeScript & Tailwind.
 Using OpenWeatherMap API I have created a page that takes a user input of a city and returns weather data.
-I have also used the Route functionality for learning and created a another page /users which you can go to by changing URL or by clicking the link provided on the home page.
+I have also used the App Router functionality for learning and created a another page /users which you can go to by changing URL or by clicking the link provided on the home page.
 
 ## Getting Started
 
